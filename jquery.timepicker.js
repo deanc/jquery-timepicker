@@ -1,6 +1,5 @@
 (function($) {
 
-	// jQuery plugin definition
 	$.fn.timePicker = function(params) {
 
 		// merge default and user parameters
