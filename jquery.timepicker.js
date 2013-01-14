@@ -1,5 +1,6 @@
 (function($) {
 
+    //
 	$.fn.timePicker = function(params) {
 
 		// merge default and user parameters
